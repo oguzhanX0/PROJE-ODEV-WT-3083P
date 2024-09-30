@@ -1,0 +1,207 @@
+.high{
+    background-color: rgb(46, 40, 40);
+}
+
+.StartBootstrap{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.navbar-toggler-icon{
+    background-color: white;
+    width: auto;
+}
+
+.home{
+    text-decoration: none;
+    padding-left: 15px;
+    opacity: 0.9;
+    color: gray;
+    font-size: 20px;
+}
+.home:hover{
+    color: white;
+}
+
+.tlist{
+    padding-right: 200px;
+}
+
+.up{
+    background-color: rgb(46, 40, 40);
+    padding-top: 120px;
+}
+
+.ilk{
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.orta{
+    color:gray;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+a{
+    text-decoration:none;
+}
+
+.car{
+    width:550px;
+    padding-bottom:20px;
+    float:left
+}
+
+.main{
+    background-color: rgb(239, 243, 248);
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+.better{
+    text-align: left;
+    padding-bottom: 25px;
+}
+
+.awesome{
+    color:blue;
+    font-size:50px;
+    margin-bottom: 10px
+}
+
+.word{
+    background-color: rgb(197, 203, 209);
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+.tom{
+    padding-top:90px;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.tom-1{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.round{
+    width: 50px;
+    float: left !important;
+    margin-right: 10px;
+
+}
+
+.cards{
+    background-color: rgb(240, 245, 248);
+    padding-top: 100px;
+    padding-bottom: 80px; 
+}
+
+.blog{
+    font-size: 35px;
+    text-align: center;
+}
+
+.ad{
+    font-size: 20px;
+    text-align: center;
+    opacity: 0.7;
+}
+
+.carmrg{
+    padding-left:5px;
+    padding-top: 80px;
+}
+
+.H6{
+    text-align: center;
+    padding-top: 100px;
+    margin-left:10px;
+}
+.card{
+    margin-bottom: 20px;
+    .boyut{
+   height: 250px;
+}
+}
+
+.card:hover{
+    background-color: rgb(36, 36, 36);
+    color:white;
+    cursor:grabbing;
+}
+
+
+.send{
+    background-color: rgb(86, 86, 189);
+    border:2px solid rgb(168, 168, 194);
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-top: 80px;
+}
+
+
+
+.blueword{
+    color: white;
+    text-align: left;
+    font-size: 1.7rem;
+    padding-left:30px;
+}
+
+.h4s{
+    color: white;
+    font-size: 1rem;
+    text-align: left;
+    opacity: 0.8;
+    padding-left:30px;
+}
+
+
+button.email:hover{
+    background-color: black;
+    color: white;
+}
+
+.grup{
+   margin-right:30px;
+}
+
+.care{
+    font-size: 15px;
+    color: white;
+    opacity: 0.8;
+    margin-top:10px;
+}
+
+.Last{
+    background-color: rgb(66, 60, 60);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.special:hover{
+    color: rgb(148, 158, 252);
+    font-weight: bolder;
+}
+
+.special1{
+   font-size: 50px;
+}
+
+.special1:hover{
+    background-color:rgb(87, 91, 136);
+    color: rgb(115, 245, 184);
+    font-weight: bold;
+}
